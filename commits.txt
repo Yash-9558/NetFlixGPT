@@ -1,0 +1,11 @@
+Optimize & Data Fetch
+
+authentication & authorization , redux , navigation
+
+deploy basic app
+
+Sign in/up form inside Login
+
+Intialize Project and Tailwind Configuration
+
+Initialize project using Create React App
